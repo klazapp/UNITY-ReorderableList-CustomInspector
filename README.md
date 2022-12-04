@@ -8,6 +8,7 @@ This is a project that demonstrates how to set up a custom inspector and editor 
 1) Navigate to Tools > Generator > Enemy AI
 
 ![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/ToolWindow.png)
+
 2) Click "Create New Template"
 
 <br />
