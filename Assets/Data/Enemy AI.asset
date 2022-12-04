@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ede74db04fe4d5e9ede550c15e4d3a, type: 3}
+  m_Name: Enemy AI
+  m_EditorClassIdentifier: 
+  mainStates:
+  - primaryState: 0
+    secondaryState:
+      subState: 2
+      tertiaryStates:
+      - finalActions: 0
+        finalActionProbability: 0.1
+        priorityLevel: 0
+      - finalActions: 0
+        finalActionProbability: 0.9
+        priorityLevel: 0
+  - primaryState: 1
+    secondaryState:
+      subState: 0
+      tertiaryStates:
+      - finalActions: 0
+        finalActionProbability: 0.38
+        priorityLevel: 3
+  - primaryState: 3
+    secondaryState:
+      subState: 0
+      tertiaryStates:
+      - finalActions: 0
+        finalActionProbability: 0.47
+        priorityLevel: 1
+  - primaryState: 5
+    secondaryState:
+      subState: 3
+      tertiaryStates: []
+  - primaryState: 2
+    secondaryState:
+      subState: 0
+      tertiaryStates:
+      - finalActions: 0
+        finalActionProbability: 0.53
+        priorityLevel: 0
+      - finalActions: 0
+        finalActionProbability: 0.47
+        priorityLevel: 2
+  - primaryState: 4
+    secondaryState:
+      subState: 3
+      tertiaryStates:
+      - finalActions: 0
+        finalActionProbability: 0.76
+        priorityLevel: 0
+      - finalActions: 4
+        finalActionProbability: 0.24
+        priorityLevel: 0
