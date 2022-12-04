@@ -7,7 +7,7 @@ This is a project that demonstrates how to set up a custom inspector and editor 
 ## How to
 1) Navigate to Tools > Generator > Enemy AI
 
-![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/Screenshot 2022-12-04 at 9.36.44 PM.png.png)
+![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/Screenshot 2022-12-04 at 9.36.44 PM.png)
 
 2) Click "Create New Template"
 
@@ -23,7 +23,7 @@ The editor scripts shows how a reorderable list may be used to display lists in 
 
 <br />
 
-![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/Screenshot 2022-12-04 at 9.36.44 PM.png.png)
+![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/Screenshot 2022-12-04 at 9.36.44 PM.png)
 
 The images above show a difference in a list within a custom inspector window vs a traditional inspector window
 
