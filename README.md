@@ -23,7 +23,12 @@ The editor scripts shows how a reorderable list may be used to display lists in 
 
 <br />
 
+#Traditional List Inspector
 ![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/TraditionalInspector.png)
+
+<br />
+
+#Custom List Inspector
 ![](https://github.com/klazapp/UNITY-ReorderableList-CustomInspector/blob/main/Assets/Art/CustomInspector.png)
 
 The images above show a difference in a list within a custom inspector window vs a traditional inspector window
